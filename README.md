@@ -1,1 +1,1 @@
-Hi this is my Java GUI I made in my second year. Feel free to import it into ur eclipse workbook and try it out. Needs some work done but not bad for a scrap project 
+Hi this is my Java GUI I made in my second year. Feel free to import it into ur eclipse workbook and try it out. Needs some work done but not bad for a scrap project. I scored in the mid 70s w it which is decent enough. Could've improved it alot honestly but I was in a rush.
